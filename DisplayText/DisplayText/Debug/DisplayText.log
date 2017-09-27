@@ -1,0 +1,4 @@
+﻿  Cameron_Richardson_DisplayText.cpp
+c:\users\239794\desktop\csci 1\displaytext\displaytext\cameron_richardson_displaytext.cpp(19): error C2065: 'l': undeclared identifier
+c:\users\239794\desktop\csci 1\displaytext\displaytext\cameron_richardson_displaytext.cpp(20): error C2143: syntax error: missing ';' before 'string'
+c:\users\239794\desktop\csci 1\displaytext\displaytext\cameron_richardson_displaytext.cpp(20): error C2296: '<<': illegal, left operand has type 'const char [6]'
